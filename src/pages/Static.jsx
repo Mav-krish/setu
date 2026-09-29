@@ -1,0 +1,1 @@
+export const About = () => (<><h2>About SETU</h2><div className="panel"><p>SETU is the National Infrastructure Risk Monitoring &amp; Management System. It helps ministries track large infrastructure projects, predict cost and schedule risk, collect ground reports from field engineers and plan mitigation.</p></div></>)
